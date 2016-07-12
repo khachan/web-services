@@ -1,0 +1,6 @@
+Step 1:
+heroku plugins:install https://github.com/heroku/heroku-deploy
+Step 1:
+heroku deploy:war --war demo.war --app hxm-demo
+Step 3:
+heroku open
