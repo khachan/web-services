@@ -1,1 +1,4 @@
-Init 
+Discard all:
+checkout -- .
+Discard some files:
+checkout -- file-name
