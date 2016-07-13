@@ -1,4 +1,5 @@
 Discard all:
 checkout -- .
 Discard some files:
-checkout -- file-name
+checkout -- file-namegit reset HEAD~ 
+git reset HEAD~
